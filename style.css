@@ -1,0 +1,61 @@
+#main {
+  background-color: #eee;
+  font-family: Segoe UI, Helvetica Neue, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  color: #333;
+  padding: 20px;
+  border-radius: 7px;
+  margin: 30px 10px;
+}
+
+#title {
+  font-weight: bold;
+  text-align: center;
+}
+
+#main > p {
+  text-align: center;
+}
+
+#img-div {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 30px 30px 10px 30px; 
+  background-color: #fff;  
+  border-radius: 8px;   
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+#img-caption {
+  display: block;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#tribute-info > h3 {
+  text-align: center;
+  font-size: 1.17em;
+  font-weight: bold;
+}
+
+.tribute-info {
+  padding: 20px 0;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.tribute-info > ul > li {
+  margin-bottom: 35px;
+}
+
+a {
+  color: #477ca7;
+}
